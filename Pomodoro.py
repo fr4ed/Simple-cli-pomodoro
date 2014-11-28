@@ -12,7 +12,7 @@ def pomodoro():
     while boom > 0:
         time.sleep(1)
         if boom%60==0:
-            print('\n \n \n ' + str(int(boom/60)) + '\n \n \n ')
+            print('\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n     ' + str(int(boom/60)) + '\n \n \n ')
             #print(boom/60)
         boom -=1
     print('Pomodoro er over')
